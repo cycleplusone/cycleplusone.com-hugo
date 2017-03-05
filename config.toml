@@ -1,0 +1,27 @@
+languageCode = "en-us"
+title = "Cycle Plus One"
+baseurl = "http://cycleplusone.com/"
+theme = "aerial"
+
+[params]
+  name = ""
+  about = "Constructing Technological Terrors Since 2012 <> Strategizing since around then"
+  copyright = "Untitled"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "https://twitter.com/cycleplusone"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "https://github.com/cycleplusone"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "mailto://k@cycleplusone.com"
